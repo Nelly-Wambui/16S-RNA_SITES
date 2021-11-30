@@ -4,5 +4,5 @@
 
 [A Complex Assembly Landscape for the 30S Ribosomal Subunit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5654522/)
 
-[SMALL RIBOSOMAL UNIT WITH GOOD PHOTO](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020010)
+[SMALL RIBOSOMAL UNIT WITH GOOD IMAGE](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020010)
 
