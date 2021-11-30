@@ -8,3 +8,6 @@
 
 [16S rRNA BIOINFORMATICS ANALYSIS PIPELINE](https://www.cd-genomics.com/16S-18S-ITS-Amplicon-Sequencing.html)
 
+[A LITTLE EXPLANATION OF THE FUNCTIONS IN THE GIVEN MATERIAL](https://en.wikipedia.org/wiki/16S_ribosomal_RNA)
+
+
