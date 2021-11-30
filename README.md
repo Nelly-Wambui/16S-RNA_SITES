@@ -10,4 +10,6 @@
 
 [A LITTLE EXPLANATION OF THE FUNCTIONS IN THE GIVEN MATERIAL](https://en.wikipedia.org/wiki/16S_ribosomal_RNA)
 
+[The distribution, diversity, and importance of 16S rRNA gene introns in the order Thermoproteales](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4496867/)
+
 
