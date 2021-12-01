@@ -17,6 +17,10 @@
 
 ## ANALYSIS SITES
 
+[16S rRNA Gene Sequencing for identification, classification and quantitation of microbes](https://lcsciences.com/16s-rrna-gene-sequencing-for-identification-classification-and-quantitation-of-microbes/)
+
+### PATHOGEN DATA
+
 [Analysing Microbial Community Composition through Amplicon Sequencing: From Sampling to Hypothesis Testing](https://www.frontiersin.org/articles/10.3389/fmicb.2017.01561/full)
 
 [Microbial Diversity Analysis – 16S/18S/ITS Sequencing](https://www.cd-genomics.com/microbioseq/microbial-diversity-analysis.html)
@@ -67,6 +71,24 @@
 [rANOMALY: AmplicoN wOrkflow for Microbial community AnaLYsis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836088/)
 
 [Analysis of large 16S rRNA Illumina data sets: Impact of singleton read filtering on microbial community description](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12700)
+
+[16S rRNA gene and 18S rRNA gene diversity in microbial mat communities in meltwater ponds on the McMurdo Ice Shelf, Antarctica](https://link.springer.com/article/10.1007/s00300-021-02843-2)
+
+
+### INSECT DATA
+
+[Testing the potential of a ribosomal 16S marker for DNA metabarcoding of insects](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4841222/)
+
+[16S rRNA Gene Sequencing Reveals a Shift in the Microbiota of Diaphorina citri During the Psyllid Life Cycle](https://www.frontiersin.org/articles/10.3389/fmicb.2019.01948/full)
+
+[Metagenomic analysis of microbial community of a parasitoid wasp Megaphragma amalphitanum](https://www.sciencedirect.com/science/article/pii/S2213596016301891)
+
+[Low bacterial community diversity in two introduced aphid pests revealed with 16S rRNA amplicon sequencing](https://peerj.com/articles/4725/)
+
+[DNA extraction protocols cause differences in 16S rRNAamplicon sequencing efficiency but not in communityprofile composition or structure](https://www.moreaulab.entomology.cornell.edu/wp-content/uploads/2013/08/Rubin_et_al._2014_MicrobiologyOpen.pdf)
+
+[Assessment of a 16S rRNA amplicon Illumina sequencingprocedure for studying the microbiome of a symbiont-richaphid genus](https://www.plantevolution.org/jc/Jousselin2016.pdf)
+
 
 
 ## THE OTU
