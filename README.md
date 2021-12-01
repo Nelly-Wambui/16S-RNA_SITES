@@ -33,3 +33,10 @@
 
 [A perspective on 16S rRNA operational taxonomic unit clustering using sequence similarity](https://www.nature.com/articles/npjbiofilms20164)
 
+[Interpretations of Environmental Microbial Community Studies Are Biased by the Selected 16S rRNA (Gene) Amplicon Sequencing Pipeline](https://www.frontiersin.org/articles/10.3389/fmicb.2020.550420/full)
+
+[Reprocessing 16S rRNA Gene Amplicon Sequencing Studies: (Meta)Data Issues, Robustness, and Reproducibility](https://www.frontiersin.org/articles/10.3389/fcimb.2021.720637/full)
+
+[Impact of DNA extraction method and targeted 16S-rRNA hypervariable region on oral microbiota profiling](https://www.nature.com/articles/s41598-018-34294-x)
+
+[Amplicon Sequencing of Variable 16S rRNA from Bacteria andITS2 Regions from Fungi and Plants, Reveals HoneybeeSusceptibility to Diseases Results from Their ForageAvailability under Anthropogenic Landscapes](chrome-extension://gphandlahdpffmccakmbngmbjnjiiahp/https://mdpi-res.com/d_attachment/pathogens/pathogens-10-00381/article_deploy/pathogens-10-00381-v3.pdf)
