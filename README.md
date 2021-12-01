@@ -40,3 +40,37 @@
 [Impact of DNA extraction method and targeted 16S-rRNA hypervariable region on oral microbiota profiling](https://www.nature.com/articles/s41598-018-34294-x)
 
 [Amplicon Sequencing of Variable 16S rRNA from Bacteria andITS2 Regions from Fungi and Plants, Reveals HoneybeeSusceptibility to Diseases Results from Their ForageAvailability under Anthropogenic Landscapes](https://www.mdpi.com/2076-0817/10/3/381/pdf)
+
+[Considerations For Optimizing Microbiome Analysis Using a Marker Gene](https://www.frontiersin.org/articles/10.3389/fnut.2016.00026/full)
+
+[16S rRNA Amplicon Sequencing for Epidemiological Surveys of Bacteria in Wildlife](https://journals.asm.org/doi/10.1128/mSystems.00032-16)
+
+
+## THE OTU
+
+[Operational Taxonomic Unit](https://www.sciencedirect.com/topics/medicine-and-dentistry/operational-taxonomic-unit)
+
+[Operational taxonomic unit (OTU)](https://www.metagenomics.wiki/pdf/definition/operational-taxonomic-unit-otu)
+
+[Current challenges and best-practice protocols for microbiome analysis](https://academic.oup.com/bib/article/22/1/178/5678919)
+
+[A comprehensive method for amplicon-based and metagenomic characterization of viruses, bacteria, and eukaryotes in freshwater samples](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0166-1)
+
+[Considerations For Optimizing Microbiome Analysis Using a Marker Gene](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4976105/)
+
+[Controlling for Contaminants in Low-Biomass 16S rRNA Gene Sequencing Experiments](https://journals.asm.org/doi/10.1128/mSystems.00290-19)
+
+[iMAP: an integrated bioinformatics and visualization pipeline for microbiome data analysis](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2965-4)
+
+[tidyMicro: a pipeline for microbiome data analysis and visualization using the tidyverse in R](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-03967-2#Sec2)
+
+[BiomMiner: An advanced exploratory microbiome analysis and visualization pipeline](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234860)
+
+[Analysis of the mouse gut microbiome using full-length 16S rRNA amplicon sequencing](https://www.researchgate.net/publication/305336008_Analysis_of_the_mouse_gut_microbiome_using_full-length_16S_rRNA_amplicon_sequencing)
+
+[Template Preparation Affects 16S rRNA High-Throughput Sequencing Analysis of Phyllosphere Microbial Communities](https://www.frontiersin.org/articles/10.3389/fpls.2017.01623/full)
+
+[rANOMALY: AmplicoN wOrkflow for Microbial community AnaLYsis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836088/)
+
+[Analysis of large 16S rRNA Illumina data sets: Impact of singleton read filtering on microbial community description](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12700)
+
