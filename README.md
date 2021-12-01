@@ -29,8 +29,6 @@
 
 [16S rRNA gene amplicon-based metagenomic analysis of bacterial communities in the rhizospheres of selected mangrove species from Mida Creek and Gazi Bay, Kenya](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0248485)
 
-[A practical guide to ampliconand metagenomic analysis of microbiome data](https://www.researchgate.net/publication/341307321_A_practical_guide_to_amplicon_and_metagenomic_analysis_of_microbiome_data)
-
 [Comparative analysis of amplicon and metagenomic sequencing methods reveals key features in the evolution of animal metaorganisms](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0743-1#Sec13)
 
 [A perspective on 16S rRNA operational taxonomic unit clustering using sequence similarity](https://www.nature.com/articles/npjbiofilms20164)
