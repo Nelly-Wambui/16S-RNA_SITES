@@ -33,3 +33,5 @@
 
 [Comparative analysis of amplicon and metagenomic sequencing methods reveals key features in the evolution of animal metaorganisms](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0743-1#Sec13)
 
+[A perspective on 16S rRNA operational taxonomic unit clustering using sequence similarity](https://www.nature.com/articles/npjbiofilms20164)
+
