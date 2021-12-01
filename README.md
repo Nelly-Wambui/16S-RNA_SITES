@@ -14,6 +14,7 @@
 
 [The distribution, diversity, and importance of 16S rRNA gene introns in the order Thermoproteales](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4496867/)
 
+
 ## ANALYSIS SITES
 
 [Analysing Microbial Community Composition through Amplicon Sequencing: From Sampling to Hypothesis Testing](https://www.frontiersin.org/articles/10.3389/fmicb.2017.01561/full)
@@ -45,13 +46,6 @@
 
 [16S rRNA Amplicon Sequencing for Epidemiological Surveys of Bacteria in Wildlife](https://journals.asm.org/doi/10.1128/mSystems.00032-16)
 
-
-## THE OTU
-
-[Operational Taxonomic Unit](https://www.sciencedirect.com/topics/medicine-and-dentistry/operational-taxonomic-unit)
-
-[Operational taxonomic unit (OTU)](https://www.metagenomics.wiki/pdf/definition/operational-taxonomic-unit-otu)
-
 [Current challenges and best-practice protocols for microbiome analysis](https://academic.oup.com/bib/article/22/1/178/5678919)
 
 [A comprehensive method for amplicon-based and metagenomic characterization of viruses, bacteria, and eukaryotes in freshwater samples](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-016-0166-1)
@@ -73,4 +67,11 @@
 [rANOMALY: AmplicoN wOrkflow for Microbial community AnaLYsis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7836088/)
 
 [Analysis of large 16S rRNA Illumina data sets: Impact of singleton read filtering on microbial community description](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12700)
+
+
+## THE OTU
+
+[Operational Taxonomic Unit](https://www.sciencedirect.com/topics/medicine-and-dentistry/operational-taxonomic-unit)
+
+[Operational taxonomic unit (OTU)](https://www.metagenomics.wiki/pdf/definition/operational-taxonomic-unit-otu)
 
