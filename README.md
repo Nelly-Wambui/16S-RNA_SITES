@@ -39,4 +39,4 @@
 
 [Impact of DNA extraction method and targeted 16S-rRNA hypervariable region on oral microbiota profiling](https://www.nature.com/articles/s41598-018-34294-x)
 
-[Amplicon Sequencing of Variable 16S rRNA from Bacteria andITS2 Regions from Fungi and Plants, Reveals HoneybeeSusceptibility to Diseases Results from Their ForageAvailability under Anthropogenic Landscapes](chrome-extension://gphandlahdpffmccakmbngmbjnjiiahp/https://mdpi-res.com/d_attachment/pathogens/pathogens-10-00381/article_deploy/pathogens-10-00381-v3.pdf)
+[Amplicon Sequencing of Variable 16S rRNA from Bacteria andITS2 Regions from Fungi and Plants, Reveals HoneybeeSusceptibility to Diseases Results from Their ForageAvailability under Anthropogenic Landscapes](https://www.mdpi.com/2076-0817/10/3/381/pdf)
