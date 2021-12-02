@@ -97,3 +97,12 @@
 
 [Operational taxonomic unit (OTU)](https://www.metagenomics.wiki/pdf/definition/operational-taxonomic-unit-otu)
 
+## NOT  YET SAMPLED SITES
+
+[Analysis of large 16S rRNA Illumina data sets: Impact of singleton read filtering on microbial community description](https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12700)
+
+[Diversity of thermophiles in a Malaysian hot spring determined using 16S rRNA and shotgun metagenome sequencing](https://www.frontiersin.org/articles/10.3389/fmicb.2015.00177/full)
+
+[16S rRNA gene and 18S rRNA gene diversity in microbial mat communities in meltwater ponds on the McMurdo Ice Shelf, Antarctica](https://link.springer.com/article/10.1007/s00300-021-02843-2)
+
+[
