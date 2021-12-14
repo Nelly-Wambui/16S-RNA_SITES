@@ -105,4 +105,18 @@
 
 [16S rRNA gene and 18S rRNA gene diversity in microbial mat communities in meltwater ponds on the McMurdo Ice Shelf, Antarctica](https://link.springer.com/article/10.1007/s00300-021-02843-2)
 
-[
+
+## DADA-2 PIPELINE 
+
+[Filter and Trim section](https://github.com/benjjneb/dada2/issues/283)
+
+[Check if file exists](https://github.com/benjjneb/dada2/issues/523)
+
+
+## SILVA, LEFSE, DAFGA
+
+[Lefse](https://hpc.nih.gov/apps/lefse.html)
+
+[Dafga](https://academic.oup.com/bioinformatics/article/30/19/2820/2422260)
+
+[Silva](https://www.arb-silva.de/)
