@@ -120,3 +120,8 @@
 [Dafga](https://academic.oup.com/bioinformatics/article/30/19/2820/2422260)
 
 [Silva](https://www.arb-silva.de/)
+
+
+## AMPLICON SEQUENCING
+
+[Sequence with much more info even on 16s](https://www.illumina.com/techniques/sequencing/dna-sequencing/targeted-resequencing/amplicon-sequencing.html)
