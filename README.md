@@ -112,6 +112,8 @@
 
 [Check if file exists](https://github.com/benjjneb/dada2/issues/523)
 
+[Pipeline order](https://www.hadriengourle.com/tutorials/16S/)
+
 
 ## SILVA, LEFSE, DAFGA
 
