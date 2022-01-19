@@ -6,7 +6,7 @@
 
 [A complex assembly landscape for the 30S ribosomal subunit](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5654522/)
 
-*[small ribosomal unit with good image](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020010)*
+**[small ribosomal unit with good image](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020010)**
 
 [16S rRNA bioinformatics analysis pipeline](https://www.cd-genomics.com/16S-18S-ITS-Amplicon-Sequencing.html)
 
